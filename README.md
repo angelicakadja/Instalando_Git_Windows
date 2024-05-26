@@ -1,7 +1,8 @@
 # Instalando_Git_Windows
 
-Instalação e configuração inicial do Git no ambiente Windows
+Instalação e configuração inicial do Git no ambiente Windows.
 
 A instalação é bem simples.
-Para as configurações iniciais, para realizar precisa de atenção para que todo o seu repositório futuro não tenha problema.
-Será nesse momento que definirá o nome da brach principal, nome de usuário e endereço de e-mail.
+
+Para as configurações iniciais, precisa de atenção para que todo o seu repositório futuro não tenha problema com a definição da brach principal que é a primeira que o Git cria, depois podem ser criadas outras brachs.
+Claro que a qualquer momento se pode alterar nome da brach padrão, seu endereço de e-mail e usuário.
