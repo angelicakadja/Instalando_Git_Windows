@@ -1,9 +1,7 @@
 ---
-Name: Feature request
+Name: Your name
 About the application: Suggest an idea for this project
-Title: ''
-Labels: ''
-Assignees: ''
+Title: Problem title
 
 ---
 
