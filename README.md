@@ -58,3 +58,15 @@ $ git config init.defaultBranch
 Para mais configurações acesse:
 
 https://git-scm.com/doc
+
+OBSERVAÇÃO:
+
+Se você é daquele tipo de pessoa que gosta de tudo organizadinho e sua raíz do Win bem organizada, saiba que o Git criará arquivos em sua raíz, os arquivos são:
+
+*.minttyrc* --> quando executar o comando $ git config
+
+*.gitconfig* --> quando executar o comando $ git config (qualquer configuração de usuário como name, email, branch, etc.)
+
+*.lesshst* --> quando executar o comando $ git config --list (seja list sozinho ou acompanhado de --global....).
+
+O que você pode fazer é ocultar os dois primeiros arquivos, nada acontecerá, o Git continuará funcionando perfeitamente, mas, o arquivo *.lesshst* pode ser oculto, só que ao rodar novamente o comando ele ressurge. 
