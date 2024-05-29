@@ -7,13 +7,6 @@ assignees: ''
 
 ---
 
----
-Name: Your name
-About the application: Suggest an idea for this project
-Title: Problem title
-
----
-
 **Is your feature request related to an issue? Please describe.**                   
 A clear and concise description of what the problem is. Ex. I didn't understand how [...]
 
