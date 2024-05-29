@@ -1,16 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: enhancement, help wanted
-assignees: ''
-
----
-
----
 Name: Your name
 About the application: Suggest an idea for this project
 Title: Problem title
+labels: enhancement, help wanted
 
 ---
 
